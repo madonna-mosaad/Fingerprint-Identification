@@ -131,11 +131,11 @@ The app generates perceptual hashes for the audio files:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YassienTawfikk/Soundprints.git
+   git clone https://github.com/madonna-mosaad/Fingerprint-Identification.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Soundprints
+   cd Fingerprint-Identification
    ```
 3. Install the required dependencies:
    ```bash
@@ -152,8 +152,8 @@ The app generates perceptual hashes for the audio files:
 
 This project wouldn’t have been possible without the hard work and collaboration of my amazing team. Huge shout-out to:
 
-- [Nancy Mahmoud](https://github.com/nancymahmoud1)  
 - [Madonna Mosaad](https://github.com/madonna-mosaad)  
+- [Nancy Mahmoud](https://github.com/nancymahmoud1)  
 - [Yassien Tawfik](https://github.com/YassienTawfikk)
 
 ---
@@ -162,6 +162,6 @@ This project wouldn’t have been possible without the hard work and collaborati
 
 For any questions or suggestions, feel free to reach out:
 
-- **Name**: Yassien Tawfik  
-- **Email**: [Yassien.m.m.tawfik@gmail.com](mailto:Yassien.m.m.tawfik@gmail.com)
+- **Name**: Madonna Mosaad
+- **Email**: [Madonna.Mosaad03@eng-st.cu.edu.eg](mailto:Madonna.Mosaad03@eng-st.cu.edu.eg)
 
